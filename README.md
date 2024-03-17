@@ -57,7 +57,7 @@ Before installing Spark, ensure you have the following prerequisites installed o
    export PATH=$PATH:$SPARK_HOME/bin:$SPARK_HOME/sbin
    ```
 
-   Refresh the Bash profile:
+   Run the following command to activate tha changes:
 
    ```bash
    source ~/.bashrc
