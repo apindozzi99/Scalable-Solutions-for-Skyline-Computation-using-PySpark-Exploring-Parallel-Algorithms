@@ -130,3 +130,11 @@ spark.driver.memory <memory-you-need>g
 
 Replace `<memory-you-need>` with the desired memory size in gigabytes.
 
+## Running Experiments
+
+To run the experiments, ensure you have Jupyter Notebook installed along with the necessary libraries. You can find the required libraries in the file libraries.ipynb.
+
+The experiments are located in the Experiments folder. Pay attention to the directory of the files required among the machines to allow parallel execution of the code.
+
+
+
