@@ -14,7 +14,7 @@ The experiments were conducted on a robust computational infrastructure comprisi
 
 # Spark Environment Setup
 
-This guide will walk you through the installation and configuration of Apache Spark on your system. Spark is a fast and general-purpose cluster computing system that provides high-level APIs in Java, Scala, Python, and R, and an optimized engine that supports general execution graphs.
+This guide will walk you through the installation and configuration of Apache Spark on your system.
 
 ## Prerequisites
 
